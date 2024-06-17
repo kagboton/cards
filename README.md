@@ -1,5 +1,9 @@
 # Cards
 
+A card project deployed with now.io and available at : https://cards-lake-delta.vercel.app. Built from Stephen Grider Angular Udemy course : https://www.udemy.com/course/the-modern-angular-bootcamp/
+
+This project focuses on creating components and handling communication between parent and child components.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
